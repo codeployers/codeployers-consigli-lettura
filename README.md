@@ -12,3 +12,5 @@
 | La teoria di lasciare andare | Mel Robbins (con Sawyer Robbins) | Crescita personale | Un metodo per smettere di controllare gli altri e concentrarsi su sé stessi e sulle proprie energie |
 | Piranesi | Susanna Clarke | Fantasy / Letterario | La vita misteriosa di un uomo in un mondo labirintico tra realtà e immaginazione |
 | La bugia dell’orchidea | Donato Carrisi | Thriller / Noir | Una strage familiare in un casale isolato apre un’indagine dove verità e menzogna si confondono |
+| Neuromante | William Gibson | Fantascienza / Cyberpunk | Un hacker viene coinvolto in una missione nel cyberspazio tra IA, corporazioni e realtà virtuale, in un mondo che ha definito il genere cyberpunk |
+| La sottile arte di fare quello che c***o ti pare | Mark Manson | Crescita personale | Un approccio controintuitivo alla felicità: accettare limiti e problemi, scegliendo consapevolmente a cosa dare importanza |
